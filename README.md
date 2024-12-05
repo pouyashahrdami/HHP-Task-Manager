@@ -2,7 +2,8 @@
 
 A To-Do application built with Laravel to manage tasks efficiently.
 
-<img src="https://raw.githubusercontent.com/pouyashahrdami/Task-Manager/refs/heads/main/public/git-logo.png" width="400" alt="Laravel Logo">
+<img src="public/git-logo.png" width="400" alt="Laravel Logo">
+
 ## Features
 
 - Add, edit, and delete tasks.
